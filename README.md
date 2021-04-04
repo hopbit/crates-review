@@ -5,7 +5,7 @@
 # Sets
 
 * **[Crates Review 002 (April 2021)](./002-april-2021.md)**
-* [Crates Review 001 (February 2021)](./002-february-2021.md)
+* [Crates Review 001 (February 2021)](./001-february-2021.md)
 
 ----
 
