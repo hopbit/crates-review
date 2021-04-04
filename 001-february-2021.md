@@ -5,9 +5,10 @@
 Date: 2021-02-14
 Tags: #MP3 #
 
-[![Crates Review 001](https://thumbnailer.mixcloud.com/unsafe/300x300/profile/8/d/b/7/a644-4d3d-42e9-a29c-c47fd6042d8e)](https://www.mixcloud.com/hopbit/crates-review-001/)
+[![Crates Review 001](https://thumbnailer.mixcloud.com/unsafe/300x300/profile/8/d/b/7/a644-4d3d-42e9-a29c-c47fd6042d8e)](https://www.youtube.com/watch?v=7ZMFRkRenJo&list=PLUY58bai67rY09tJM21oo0Q2XT0NGaE4p&index=2)
 
-* [**Listen on Mixcloud (56 min)**](https://www.mixcloud.com/hopbit/crates-review-001/)
+* [**Listen on YOUTUBE**](https://www.youtube.com/watch?v=7ZMFRkRenJo&list=PLUY58bai67rY09tJM21oo0Q2XT0NGaE4p&index=2)
+* [**Listen on MIXCLOUD**](https://www.mixcloud.com/hopbit/crates-review-001/)
 * [**Download MP3 (127 MB)**](https://1drv.ms/u/s!AmzuuXrjf51v35hj2XFt5O08sWNkBQ?e=eTgfRF)
 
 TRACKLIST:  
